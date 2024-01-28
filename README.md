@@ -1,2 +1,2 @@
 # HRAnalytics-Dashboard
-This Dashboard was prepared from the data provided by an anonymous company, to find insights about the attrition rate and employees and the reasons behind increasing attrition rate. There were some other findings also related to the employee employer relationship.
+This Dashboard was prepared using the POWER BI tool, to visualize the data provided by an anonymous company, and find insights about the behaviour of employees and the reasons behind the increasing attrition rate. There were some other findings also related to the employee employer relationship, the increase in salaries over the years and how employees rate the company based on there posts.
